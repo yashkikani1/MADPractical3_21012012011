@@ -1,7 +1,6 @@
 # MADPractical3_21012012011
 
 AIM: Create following UI by using ConstraintLayout, LinearLayout, in one android Application. Create two activities for each layout & use BottomNavigationBar & Explicit Intent to move from one activity to another activity. Don't use LinearLayout in ConstraintLayout and vice versa.
-
 Step-1: Add Data Binding in gradle file and sync.
 Step-2: Open Themes.xml and themes.xml (night) and change to Material3 Theme and keep navigationbar transparent as shown in code hint.
 Step-3: Open activity_main.xml file and add code of CoordinatorLayout with toolbar as shown in code hint
